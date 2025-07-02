@@ -30,6 +30,4 @@ Understand what makes a password strong and how complexity affects its security.
 - Avoid real words or personal info
 - Never reuse passwords
 
----
 
-📁 This README summarizes a basic hands-on exercise in password strength analysis and online security awareness.
